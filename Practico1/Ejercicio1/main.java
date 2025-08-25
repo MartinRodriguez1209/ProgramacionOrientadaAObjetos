@@ -2,6 +2,7 @@
 public class main {
 
     public static void main(String[] args) {
-        System.out.println("Hello, world!");
+        int numero = 10;
+        System.out.printf("Numero= %d", numero);
     }
 }

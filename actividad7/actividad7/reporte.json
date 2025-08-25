@@ -1,0 +1,12 @@
+[
+	{
+		"id": "101",
+		"stock": "42",
+		"nombre": "Teclado Mecanico"
+	},
+	{
+		"id": "102",
+		"stock": "78",
+		"nombre": "Mouse Gamer"
+	}
+]
